@@ -2,7 +2,9 @@
 
 > Plug your old Sega Mega Drive / Genesis controller into a PC via USB — no drivers, no nonsense.
 
-![Controller plugged into the adapter](docs/adapter_photo.jpg)
+<p align="center">
+  <img src="docs/adapter_photo.png" alt="Controller plugged into the adapter" width="600">
+</p>
 
 ---
 
